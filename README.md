@@ -1,4 +1,7 @@
 # xlfdldw888.github.io :link: https://xlfdldw888.github.io 
+
+初始的模样，没时间搞网站建设！！！
+
 ### :page_facing_up: [1](https://xlfdldw888.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 1984 
